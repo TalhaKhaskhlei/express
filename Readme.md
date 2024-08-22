@@ -18,6 +18,7 @@
 * [Triagers](#triagers)
 * [License](#license)
 
+# Talha Khaskheli
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
